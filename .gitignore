@@ -13,7 +13,6 @@ target/
 .idea/
 
 # Chaves privadas e arquivos sensiveis
-*.key
 *.p12
 *.pfx
 
