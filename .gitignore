@@ -1,0 +1,29 @@
+# Arquivos compilados
+target/
+*.class
+
+# Banco de dados local
+*.db
+*.db-journal
+*.db-wal
+*.db-shm
+
+# Configuracoes da IDE
+.vscode/
+.idea/
+
+# Chaves privadas e arquivos sensiveis
+*.key
+*.p12
+*.pfx
+
+# Arquivos de teste
+arquivos-teste/
+teste-classes/
+backup-arquivos-recuperados/
+
+# Arquivos temporarios
+*.log
+
+# Pacotes de entrega
+*-entrega.zip
