@@ -18,7 +18,6 @@ target/
 *.pfx
 
 # Arquivos de teste
-arquivos-teste/
 teste-classes/
 backup-arquivos-recuperados/
 
